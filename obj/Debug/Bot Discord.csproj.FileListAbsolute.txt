@@ -1,0 +1,47 @@
+G:\C#\Bot Discord\bin\Debug\Bot Discord.exe.config
+G:\C#\Bot Discord\bin\Debug\Bot Discord.exe
+G:\C#\Bot Discord\bin\Debug\Bot Discord.pdb
+G:\C#\Bot Discord\bin\Debug\Discord.Net.Commands.dll
+G:\C#\Bot Discord\bin\Debug\Discord.Net.Core.dll
+G:\C#\Bot Discord\bin\Debug\Discord.Net.Interactions.dll
+G:\C#\Bot Discord\bin\Debug\Discord.Net.Rest.dll
+G:\C#\Bot Discord\bin\Debug\Discord.Net.Webhook.dll
+G:\C#\Bot Discord\bin\Debug\Discord.Net.WebSocket.dll
+G:\C#\Bot Discord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\C#\Bot Discord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\C#\Bot Discord\bin\Debug\Newtonsoft.Json.dll
+G:\C#\Bot Discord\bin\Debug\System.Buffers.dll
+G:\C#\Bot Discord\bin\Debug\System.Collections.Immutable.dll
+G:\C#\Bot Discord\bin\Debug\System.Interactive.Async.dll
+G:\C#\Bot Discord\bin\Debug\System.Linq.Async.dll
+G:\C#\Bot Discord\bin\Debug\System.Memory.dll
+G:\C#\Bot Discord\bin\Debug\System.Numerics.Vectors.dll
+G:\C#\Bot Discord\bin\Debug\System.Reactive.dll
+G:\C#\Bot Discord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\C#\Bot Discord\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\C#\Bot Discord\bin\Debug\System.ValueTuple.dll
+G:\C#\Bot Discord\bin\Debug\Discord.Net.Commands.xml
+G:\C#\Bot Discord\bin\Debug\Discord.Net.Core.xml
+G:\C#\Bot Discord\bin\Debug\Discord.Net.Interactions.xml
+G:\C#\Bot Discord\bin\Debug\Discord.Net.Rest.xml
+G:\C#\Bot Discord\bin\Debug\Discord.Net.Webhook.xml
+G:\C#\Bot Discord\bin\Debug\Discord.Net.WebSocket.xml
+G:\C#\Bot Discord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\C#\Bot Discord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\C#\Bot Discord\bin\Debug\Newtonsoft.Json.xml
+G:\C#\Bot Discord\bin\Debug\System.Buffers.xml
+G:\C#\Bot Discord\bin\Debug\System.Collections.Immutable.xml
+G:\C#\Bot Discord\bin\Debug\System.Interactive.Async.xml
+G:\C#\Bot Discord\bin\Debug\System.Linq.Async.xml
+G:\C#\Bot Discord\bin\Debug\System.Memory.xml
+G:\C#\Bot Discord\bin\Debug\System.Numerics.Vectors.xml
+G:\C#\Bot Discord\bin\Debug\System.Reactive.xml
+G:\C#\Bot Discord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\C#\Bot Discord\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\C#\Bot Discord\bin\Debug\System.ValueTuple.xml
+G:\C#\Bot Discord\obj\Debug\Bot Discord.csproj.AssemblyReference.cache
+G:\C#\Bot Discord\obj\Debug\Bot Discord.csproj.SuggestedBindingRedirects.cache
+G:\C#\Bot Discord\obj\Debug\Bot Discord.csproj.CoreCompileInputs.cache
+G:\C#\Bot Discord\obj\Debug\Bot Discord.csproj.CopyComplete
+G:\C#\Bot Discord\obj\Debug\Bot Discord.exe
+G:\C#\Bot Discord\obj\Debug\Bot Discord.pdb
