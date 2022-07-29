@@ -80,7 +80,7 @@ namespace Bot_Discord
             {
                 foreach (SocketRole role in ((SocketGuildUser)arg.Author).Roles)
                 {
-                    if (role.Name == "Minecraft")
+                    if (role.Id == ) //Insert ID of controller role
                     {
                         foreach (string utonti in connessi)
                         {
